@@ -61,6 +61,8 @@ int Input;
 //“ü—Íó‘Ô EdgeInput:1‰ñ‚Ì‚İ
 int EdgeInput;
 
+//GitHub—vC³
+
 
 //WinMainŠÖ”
 int WINAPI WinMain(HINSTANCE hInstance, HINSTANCE hPrevInstance, LPSTR lpCmdLine, int nCmdShow) {
