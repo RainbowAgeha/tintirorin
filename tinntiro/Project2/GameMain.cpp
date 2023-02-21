@@ -62,6 +62,7 @@ int Input;
 int EdgeInput;
 
 //GitHub—vC³
+//GitC³
 
 
 //WinMainŠÖ”
